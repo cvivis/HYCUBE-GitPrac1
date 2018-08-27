@@ -5,4 +5,5 @@
 - Git Clone
 - Comit
 - Push / Pull
--Branch
+- Branch
+- Merge (hotfix3 branch)
